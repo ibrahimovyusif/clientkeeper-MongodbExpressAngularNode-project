@@ -1,0 +1,13 @@
+{
+	"name": "clientkeeper",
+	"version": "1.0.0",
+	"description": "Client management app",
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*",
+		"mongojs": "*",
+		"passport": "*",
+		"express-validator": "*"
+	},
+	"author": "Yusif Ibrahimov"
+}
